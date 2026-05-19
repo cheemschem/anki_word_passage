@@ -1,7 +1,7 @@
 {
     "package": "anki_word_passage",
     "name": "AI 单词短文生成器",
-    "human_version": "1.0.0",
+    "human_version": "0.1.1",
     "version": 1,
     "min_point_version": 50,
     "max_point_version": 250
